@@ -1,0 +1,2 @@
+# calculadora
+Com uma interface amigável e atraente, SuperCalc facilita a realização de operações matemáticas complexas com apenas alguns toques. O aplicativo realiza operações aritméticas básicas como adição, subtração, multiplicação e divisão de forma rápida e precisa. Além disso, permite calcular a raiz quadrada de qualquer número de maneira simples, elevar números à potência desejada e realizar cálculos de módulo, essencial para programação e estatísticas. A função de mais/menos facilita a inserção de números negativos nos cálculos.
